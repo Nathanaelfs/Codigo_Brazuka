@@ -12,7 +12,7 @@ for i in range(numeroInicio,numeroFim+1):
     
     multiplo3=multiplo(i,3)
     multiplo5=multiplo(i,5)
-    print(f"{i}/3={multiplo3}\n {i}/5={multiplo5}")
+    
     if multiplo3 == True and multiplo5 ==True:
         break
     else:
