@@ -1,5 +1,0 @@
-print('preencha com seus dados para calcular seu IMC')
-alturaEmM=float(input('qual sua altura em M?'))
-peso=float(input('quantos kg voçê pesa?'))
-Imc=peso/(alturaEmM*alturaEmM)
-print("seu IMC é de: ",Imc)
