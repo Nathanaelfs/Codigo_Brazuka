@@ -14,7 +14,7 @@ programa {
   
   media=(numero1+numero2+numero3)/3
 
-  escreva("a media é: ",media)
+  escreva("a media Ã©: ",media)
 
   }
 }
