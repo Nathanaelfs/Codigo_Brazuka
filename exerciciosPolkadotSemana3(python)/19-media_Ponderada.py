@@ -1,0 +1,8 @@
+n1=int(input('digite uma nota '))
+n2=int(input('digte a segunda nota '))
+n3=int(input('agora a ultima nota '))
+peso1=int(2)
+peso2=int(3)
+peso3=int(5)
+mediaPonderada=((n1*peso1)+(n2*peso2)+(n3*peso3))/(peso1+peso2+peso3)
+print(f'essa é a media ponderada destas notas,{mediaPonderada}')
