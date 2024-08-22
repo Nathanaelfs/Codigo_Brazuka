@@ -8,7 +8,7 @@ programa {
 
   fahrenheit=(celsius*9/5) + 32
 
-  escreva("a temperatura em fahrenheit é: ", fahrenheit)
+  escreva("a temperatura em fahrenheit Ã©: ", fahrenheit)
 
   }
 }
