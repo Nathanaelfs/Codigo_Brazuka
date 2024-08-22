@@ -9,11 +9,11 @@ programa {
 
    se (numero%2 == 0)
    {
-    escreva("o numero é par")
+    escreva("o numero Ã© par")
    }
    senao
    {
-    escreva("o numero é impar")
+    escreva("o numero Ã© impar")
    }
   }
 }
