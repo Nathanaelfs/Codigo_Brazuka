@@ -11,7 +11,7 @@ programa {
 
   soma=numero1+numero2
 
-  escreva("a soma dos dois numero é: ",soma)
+  escreva("a soma dos dois numero Ã©: ",soma)
 
   }
   }
