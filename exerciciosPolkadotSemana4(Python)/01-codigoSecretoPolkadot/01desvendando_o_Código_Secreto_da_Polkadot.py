@@ -14,7 +14,7 @@ for i in range(numeroInicio,numeroFim+1):
     multiplo5=multiplo(i,5)
     
     if multiplo3 == True and multiplo5 ==True:
-        break
+           valorfinal+=0
     else:
         if multiplo3 == True:
            valorfinal+=i
